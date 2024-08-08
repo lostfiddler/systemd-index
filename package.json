@@ -1,0 +1,22 @@
+{
+  "name": "systemd-index",
+  "version": "1.0.0",
+  "description": "systemd.directives - Index of configuration directives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostfiddler/systemd-index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostfiddler/systemd-index/issues"
+  },
+  "homepage": "https://github.com/lostfiddler/systemd-index#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
